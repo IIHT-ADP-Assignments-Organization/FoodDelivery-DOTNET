@@ -1,0 +1,14 @@
+E:\Shilpa\FoodDelivery\FoodDelivery.BusinessLayer\bin\Debug\netcoreapp2.2\FoodDelivery.BusinessLayer.deps.json
+E:\Shilpa\FoodDelivery\FoodDelivery.BusinessLayer\bin\Debug\netcoreapp2.2\FoodDelivery.BusinessLayer.dll
+E:\Shilpa\FoodDelivery\FoodDelivery.BusinessLayer\bin\Debug\netcoreapp2.2\FoodDelivery.BusinessLayer.pdb
+E:\Shilpa\FoodDelivery\FoodDelivery.BusinessLayer\bin\Debug\netcoreapp2.2\FoodDelivery.DataLayer.dll
+E:\Shilpa\FoodDelivery\FoodDelivery.BusinessLayer\bin\Debug\netcoreapp2.2\FoodDelivery.Entities.dll
+E:\Shilpa\FoodDelivery\FoodDelivery.BusinessLayer\bin\Debug\netcoreapp2.2\FoodDelivery.DataLayer.pdb
+E:\Shilpa\FoodDelivery\FoodDelivery.BusinessLayer\bin\Debug\netcoreapp2.2\FoodDelivery.Entities.pdb
+E:\Shilpa\FoodDelivery\FoodDelivery.BusinessLayer\obj\Debug\netcoreapp2.2\FoodDelivery.BusinessLayer.csprojAssemblyReference.cache
+E:\Shilpa\FoodDelivery\FoodDelivery.BusinessLayer\obj\Debug\netcoreapp2.2\FoodDelivery.BusinessLayer.csproj.CoreCompileInputs.cache
+E:\Shilpa\FoodDelivery\FoodDelivery.BusinessLayer\obj\Debug\netcoreapp2.2\FoodDelivery.BusinessLayer.AssemblyInfoInputs.cache
+E:\Shilpa\FoodDelivery\FoodDelivery.BusinessLayer\obj\Debug\netcoreapp2.2\FoodDelivery.BusinessLayer.AssemblyInfo.cs
+E:\Shilpa\FoodDelivery\FoodDelivery.BusinessLayer\obj\Debug\netcoreapp2.2\FoodDelivery.BusinessLayer.csproj.CopyComplete
+E:\Shilpa\FoodDelivery\FoodDelivery.BusinessLayer\obj\Debug\netcoreapp2.2\FoodDelivery.BusinessLayer.dll
+E:\Shilpa\FoodDelivery\FoodDelivery.BusinessLayer\obj\Debug\netcoreapp2.2\FoodDelivery.BusinessLayer.pdb

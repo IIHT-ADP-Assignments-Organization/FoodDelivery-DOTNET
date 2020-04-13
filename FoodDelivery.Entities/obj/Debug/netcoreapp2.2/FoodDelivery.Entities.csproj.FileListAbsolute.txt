@@ -1,0 +1,9 @@
+E:\Shilpa\FoodDelivery\FoodDelivery.Entities\bin\Debug\netcoreapp2.2\FoodDelivery.Entities.deps.json
+E:\Shilpa\FoodDelivery\FoodDelivery.Entities\bin\Debug\netcoreapp2.2\FoodDelivery.Entities.dll
+E:\Shilpa\FoodDelivery\FoodDelivery.Entities\bin\Debug\netcoreapp2.2\FoodDelivery.Entities.pdb
+E:\Shilpa\FoodDelivery\FoodDelivery.Entities\obj\Debug\netcoreapp2.2\FoodDelivery.Entities.csprojAssemblyReference.cache
+E:\Shilpa\FoodDelivery\FoodDelivery.Entities\obj\Debug\netcoreapp2.2\FoodDelivery.Entities.csproj.CoreCompileInputs.cache
+E:\Shilpa\FoodDelivery\FoodDelivery.Entities\obj\Debug\netcoreapp2.2\FoodDelivery.Entities.AssemblyInfoInputs.cache
+E:\Shilpa\FoodDelivery\FoodDelivery.Entities\obj\Debug\netcoreapp2.2\FoodDelivery.Entities.AssemblyInfo.cs
+E:\Shilpa\FoodDelivery\FoodDelivery.Entities\obj\Debug\netcoreapp2.2\FoodDelivery.Entities.dll
+E:\Shilpa\FoodDelivery\FoodDelivery.Entities\obj\Debug\netcoreapp2.2\FoodDelivery.Entities.pdb
